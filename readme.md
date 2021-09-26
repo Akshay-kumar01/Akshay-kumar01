@@ -2,7 +2,7 @@
 
 <hr/>
 
-![](https://komarev.com/ghpvc/?username=Akshay_kumar01&color=green&style=flat)
+<!-- ![](https://komarev.com/ghpvc/?username=Akshay_kumar01&color=green&style=flat) -->
 <br>
 <p align='center'>
 I'm Akshay Kumar Singh, currently studying in National Institute of Technology Durgapur, India.
