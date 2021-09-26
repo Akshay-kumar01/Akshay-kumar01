@@ -29,11 +29,11 @@ I like to work in the domains of content writing, graphics designing and learnin
 <br><br>
  
 <hr/>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Techno-Simpola&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshay-kumar01&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark'>
 <br><br>
 
 <hr/>
-<img src='https://github-profile-trophy.vercel.app/?username=Techno-Simpola&theme=darkhub'>
+<!-- <img src='https://github-profile-trophy.vercel.app/?username=Techno-Simpola&theme=darkhub'> -->
 <br><br>
 <hr/>
 
@@ -64,8 +64,8 @@ I like to work in the domains of content writing, graphics designing and learnin
 <br><br>
 
 <hr/>
-
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-kumar01)](https://github.com/akshay-kumar01/github-readme-stats)
+<!-- 
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-kumar01)](https://github.com/akshay-kumar01/github-readme-stats) -->
 
 <br>
   
