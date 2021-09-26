@@ -56,7 +56,6 @@ I like to work in the domains of content writing, graphics designing and learnin
 
 <img  src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 <img  src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="xd" width="40" height="40"/> 
-<!-- <img  src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="xd" width="40" height="40"/>  -->
 
 <img src="https://image.pngaaa.com/432/3425432-middle.png" alt="Firebase" width="40" height="40"/>
 
@@ -66,7 +65,8 @@ I like to work in the domains of content writing, graphics designing and learnin
 
 <hr/>
 
-![Simpola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay_kumar01&theme=blue-green&show_icons=true&count_private=true)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-kumar01)](https://github.com/akshay-kumar01/github-readme-stats)
+
 <br>
   
 <hr/>
