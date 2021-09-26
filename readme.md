@@ -71,14 +71,20 @@ I like to work in the domains of content writing, graphics designing and learnin
   
 <hr/>
 
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-kumar01&theme=blue-green&show_icons=true&layout=compact)](https://github.com/Akshay-kumar01/github-readme-stats) -->
+ <details>
+  <summary> :zap: Github Stats </summary>
+  
+  <img align="center" alt="Akshay's Github Stats" src="https://github.com/akshay-kumar01/github-readme-stats/api/pin/?username=akshay-kumar01&show_icons=ture&hide_border=true"/>
+  
+ </details>
+<!--   [![Top Langs](https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=Akshay-kumar01&theme=blue-green&show_icons=true&layout=compact)]
  
 <a href="https://github.com/akshay-kumar01/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshay-kumar01&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/akshay-kumar01/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshay-kumar01&repo=convoychat" />
-</a>
+</a> -->
 
  
 <br>
