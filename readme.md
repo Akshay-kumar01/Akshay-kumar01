@@ -12,9 +12,9 @@ Currently studying in National Institute of Technology Durgapur, India. <hr>
 
 ***I like to work in the domains of*** 
  
-     1. content writing  <br>
-     2. graphics designing <br>
-     3. web development  <br>
+     1. content writing  
+     2. graphics designing
+     3. web development  
  
  Currently, I'm learning MERN stack. I've worked in Frontend and now working on Backend projects with ReactJS. 
  
