@@ -5,13 +5,20 @@
 <!-- ![](https://komarev.com/ghpvc/?username=Akshay_kumar01&color=green&style=flat) -->
 <br>
 <p align='center'>
-I'm Akshay Kumar Singh, currently studying in National Institute of Technology Durgapur, India.
+I'm Akshay Kumar Singh <br>
+Currently studying in National Institute of Technology Durgapur, India. <hr>
 
 <br>
 
-I like to work in the domains of content writing, graphics designing and learning web development, mainly MERN stack. I've worked in Frontend and now working on Backend projects with ReactJS. 
-</p>
-<br><br>
+***I like to work in the domains of*** 
+ 
+     1. content writing  <br>
+     2. graphics designing <br>
+     3. web development  <br>
+ 
+ Currently, I'm learning MERN stack. I've worked in Frontend and now working on Backend projects with ReactJS. 
+ 
+</p> <br>
 
 <div align='center'>
  You can get in touch through: 
@@ -32,9 +39,6 @@ I like to work in the domains of content writing, graphics designing and learnin
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshay-kumar01&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark'>
 <br><br>
 
-<hr/>
-<!-- <img src='https://github-profile-trophy.vercel.app/?username=Techno-Simpola&theme=darkhub'> -->
-<br><br>
 <hr/>
 
 ### Languages and Tools:
@@ -64,12 +68,11 @@ I like to work in the domains of content writing, graphics designing and learnin
 <br><br>
 
 <hr/>
-<!-- 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-kumar01)](https://github.com/akshay-kumar01/github-readme-stats) -->
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-kumar01&theme=radical)]
 
 <br>
   
-<hr/>
 
 <!--  <details>
   <summary> :zap: Github Stats </summary>
