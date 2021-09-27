@@ -69,7 +69,7 @@ Currently studying in National Institute of Technology Durgapur, India. <hr>
 
 <hr/>
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-kumar01&theme=radical)]
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-kumar01&theme=radical)
 
 <br>
   
