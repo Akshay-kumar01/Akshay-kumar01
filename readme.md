@@ -16,7 +16,7 @@ Currently studying in National Institute of Technology Durgapur, India. <hr>
      2. graphics designing
      3. web development  
  
- Currently, I'm learning MERN stack. I've worked in Frontend and now working on Backend projects with ReactJS. 
+ Currently, I'm learning MERN stack and learning DJANGO and blockchain. I've worked in Frontend and now working on Backend projects with ReactJS. 
  
 </p> <br>
 
