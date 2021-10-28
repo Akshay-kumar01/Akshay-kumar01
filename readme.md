@@ -64,6 +64,8 @@ Currently studying in National Institute of Technology Durgapur, India. <hr>
 <img src="https://image.pngaaa.com/432/3425432-middle.png" alt="Firebase" width="40" height="40"/>
 
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="xd" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-pvygv&psig=AOvVaw0QqkqPQXtLw9CaxfkGPHYm&ust=1635501005809000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPC125fq7PMCFQAAAAAdAAAAABAD" alt="solidity" width="40" height="40"/>
+
 </div>
 <br><br>
 
