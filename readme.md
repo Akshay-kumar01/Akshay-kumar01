@@ -21,6 +21,9 @@ Currently studying in National Institute of Technology Durgapur, India. <hr>
 </p> <br>
 
 <div align='center'>
+ 
+ ![](https://komarev.com/ghpvc/?username=Akshay-kumar01)
+ 
  You can get in touch through: 
   <br>
 <a href="https://www.linkedin.com/in/akshay-kumar-singh-56a4aa202/">
