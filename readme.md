@@ -48,15 +48,6 @@ I enjoy solving **real business problems using data + engineering**, and I’m a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay-kumar01&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-kumar01&theme=radical" width="48%" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
